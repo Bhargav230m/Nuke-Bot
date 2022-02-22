@@ -1,0 +1,23 @@
+{
+  "name": "jomann",
+  "version": "2.0.0",
+  "description": "This bot nukes server",
+  "main": "nuked.js",
+  "scripts": {
+    "test": "Nuke"
+  },
+  "repository": {
+    "type": "git",
+    "url": "idk"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "idk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  }
+}
